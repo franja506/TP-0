@@ -1,0 +1,3 @@
+Hello World!
+
+RUN FINISHED; exit value 0; real time: 10ms; user: 0ms; system: 0ms
